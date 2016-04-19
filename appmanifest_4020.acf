@@ -1,0 +1,25 @@
+"AppState"
+{
+	"appid"		"4020"
+	"Universe"		"1"
+	"name"		"Garry's Mod Dedicated Server"
+	"StateFlags"		"4"
+	"installdir"		"GarrysModDS"
+	"LastUpdated"		"1443137243"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"3766560309"
+	"buildid"		"772428"
+	"LastOwner"		"76561199109827620"
+	"BytesToDownload"		"2173962688"
+	"BytesDownloaded"		"2173962688"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"UserConfig"
+	{
+	}
+	"MountedDepots"
+	{
+		"4021"		"8711832276169970158"
+		"4022"		"6240622420407946451"
+	}
+}
